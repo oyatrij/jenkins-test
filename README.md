@@ -1,2 +1,2 @@
 # jenkins-test
-젠킨스 파이프라인 테스트를 위한 repository
+Jenkins CI/CD 구축을 위한 테스트 repository 입니다.
